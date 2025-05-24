@@ -51,8 +51,3 @@ Veri, `flights.csv` adlı dosyadan alınmıştır. Öne çıkan sütunlar:
 - `matplotlib`, `seaborn`
 - `sklearn` (Scikit-learn)
 
-## 🔮 Gelecekteki Geliştirmeler
-
-- Uçuş iptalleri ve hava durumu etkileri üzerine daha fazla öznitelik ekleme
-- Derin öğrenme modelleri ile tahmin performansının artırılması
-- Web tabanlı arayüzle tahmin modeli sunumu
