@@ -1,4 +1,4 @@
-
+Kaggle linkim: https://www.kaggle.com/code/tugcekaraca/flights-machinelearning
 # ✈️ Uçuş Verileri Analizi ve Gecikme Tahmini
 
 Bu proje, **uçuşlara ait zaman serisi verileri** üzerinde analiz ve **2013 yılı sonuna kadar uçuş gecikmelerini tahmin etme** amaçlı bir çalışma gerçekleştirmektedir. Veri kümesi, her bir uçuşa dair zaman, yön, havayolu, mesafe gibi çeşitli öznitelikleri içermektedir. Bu çalışma, uçuşlardaki gecikmeleri anlamak, öznitelik mühendisliği uygulamaları yapmak ve gecikmeleri tahmin etmek için bir model geliştirmek üzere yapılandırılmıştır.
